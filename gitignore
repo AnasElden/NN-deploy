@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS-specific files
+.DS_Store
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook files
+*.ipynb
+
+# Windows batch files
+*.bat
+
+# Model training code (optional, but good practice to exclude large training notebooks)
+NN Model traning Code.ipynb
